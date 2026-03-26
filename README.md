@@ -30,4 +30,4 @@ If you share an interest in technology or want to collaborate on a project, feel
 ---
 # 🔗 Let’s Connect
 
-[![LinkedIn].(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tiwari-b2a5b0207?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tiwari-b2a5b0207?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
