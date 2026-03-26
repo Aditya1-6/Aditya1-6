@@ -31,3 +31,23 @@ If you share an interest in technology or want to collaborate on a project, feel
 # 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tiwari-b2a5b0207?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+# 📊 GitHub Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya1-6&color=8e44ad)
+
+## ⚡ Aditya1-6's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1-6&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aditya1-6&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1-6&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya1-6&theme=react-dark&hide_border=true)
+
+---
